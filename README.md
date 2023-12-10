@@ -1,6 +1,8 @@
 # csschooser
 
-## Video Demo:   <URL HERE>
+## Demo
+
+![demo](csschooser_demo_2023-12-09%2020-12.gif)
 
 ## Description:
 
